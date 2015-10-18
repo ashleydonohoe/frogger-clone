@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: #3498db;
+}
+
+p {
+	text-align: center;
+}
+
+#score-box {
+	width: 100px;
+	height: 100px;
+	background-color: white;
+	margin: 0 auto;
+	border: 1px solid black;
+}
+
+#score {
+	font-size: 36px;
+	color: red;
+	font-weight: bold;
+	margin: 0;
+}
